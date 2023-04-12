@@ -1,0 +1,41 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.1",
+    "heartbeatAt": "2023-04-12T11:26:00.657440",
+    "startedAt": "2023-04-12T11:25:59.493794",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "ns-zadanie2/Untitled-Copy1.ipynb",
+    "root": "C:/Users/Burka/Documents/School/Letny semester 22-23/Neuronky/ns-zadanie2",
+    "git": {
+        "remote": "https://github.com/Rudolf420/ns-zadanie2.git",
+        "commit": "c509b4e243c9984bc63cc189dcfdad8588f46a46"
+    },
+    "email": "you@example.com",
+    "host": "DESKTOP-RMB4GEM",
+    "username": "Burka",
+    "executable": "C:\\Users\\Burka\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1792.0,
+        "min": 0.0,
+        "max": 1992.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1792.0,
+            "min": 0.0,
+            "max": 1992.0
+        }
+    ],
+    "disk": {
+        "total": 222.76855087280273,
+        "used": 195.75487899780273
+    },
+    "memory": {
+        "total": 15.899608612060547
+    }
+}
